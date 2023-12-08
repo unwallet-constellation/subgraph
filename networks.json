@@ -1,0 +1,11 @@
+{
+  "fuji": {
+    "ENSRegistryCCIP": {
+      "address": "0x122e08b42A4302B5665B56b89Ee34D6F2Ca5321e",
+      "startBlock": 28382609
+    },
+    "ReverseRegistrarCCIP": {
+      "address": "0xdf0586C41617Db9886b54E36c649B0D2980F330c"
+    }
+  }
+}

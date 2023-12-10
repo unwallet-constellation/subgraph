@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![TypeScript](https://img.shields.io/badge/Typescript-blue)
-![Tailwind](https://img.shields.io/badge/The_Graph-gray)
+![The Graph](https://img.shields.io/badge/The_Graph-gray)
 
 > Next-Gen Onboarding. Seedless Smart Wallets meet Multichain Domains.
 

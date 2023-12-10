@@ -6,4 +6,4 @@
 
 > Next-Gen Onboarding. Seedless Smart Wallets meet Multichain Domains.
 
-This is the subgraph indexing registered domains for the _Unwallet.me_ hackathon project at [Chainlink Constellation 2023](https://chain.link/hackathon). The repository was scaffolded with [`@graphprotocol/graph-cli`](https://github.com/graphprotocol/graph-tooling).
+This is the subgraph indexing registered domains for the _[Unwallet.me](https://unwallet.me/)_ hackathon project at [Chainlink Constellation 2023](https://chain.link/hackathon). The repository was scaffolded with [`@graphprotocol/graph-cli`](https://github.com/graphprotocol/graph-tooling).
